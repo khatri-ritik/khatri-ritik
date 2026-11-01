@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ritik Khatri 👋
 
-<!--
-**khatriritik17-commits/khatriritik17-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with 4+ years of cross-functional experience across manufacturing operations and warehouse inventory management. Skilled in transforming complex datasets into actionable business intelligence using **Power BI**, **Advanced Excel**, and **statistical analysis**.
 
-Here are some ideas to get you started:
+- 🔭 **Focus:** Business Intelligence, Exploratory Data Analysis (EDA), KPI Dashboards, and Process Optimization
+- 📜 **Certifications:** 
+  - IBM | Data Visualization with PowerBI (Coding Ninjas)
+  - IBM | Introduction to Analytics & Excel (Coding Ninjas)
+- 📍 **Location:** Jodhpur, Rajasthan, India
+- 📬 **Connect:** [Email](mailto:khatriritik17@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **BI & Visualization:** Microsoft Power BI (Power Query, DAX, Star Schema Modeling, Interactive Dashboards)
+- **Spreadsheets:** Microsoft Excel (XLOOKUP, INDEX/MATCH, Dynamic Arrays, Pivot Tables, What-If Analysis)
+- **Operations & ERP:** SAP MM, Inventory Reconciliation, Kaizen, SMED
+
+---
+
+### 📊 Featured Analytics Projects
+
+- **Power BI Sales & Operational Dashboard**: Multi-page interactive dashboard tracking revenue velocity, margins, and regional sales KPIs.
+- **Excel Inventory & Logistics Tracker**: Automated reconciliation tracker for stock levels, dispatch variance, and turnaround metrics.
